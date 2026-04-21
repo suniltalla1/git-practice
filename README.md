@@ -8,3 +8,6 @@ HELLO TEST FILE
 ## Features
 
 Last updated: April 2026
+
+## Updates
+Ongoing improvements to site structure and styling.
