@@ -1,4 +1,4 @@
-# Git Practice...
+Hello from branch B
 HELLO TEST FILE
 "Edit README from GitHub web"
 ## Features
